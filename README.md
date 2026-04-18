@@ -42,9 +42,9 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](devendrasaini4447@gmail.com)
-* 💼 LinkedIn: your-linkedin
-* 📸 Instagram: your-instagram
+* 📧 Email: devendrasaini4447@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/devender-saini12
+* 📸 Instagram: https://www.instagram.com/devender____12
 
 ---
 ## ⚡ Fun Fact
