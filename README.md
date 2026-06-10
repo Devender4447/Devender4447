@@ -1,38 +1,38 @@
-# 👋 Hi, I'm Devender Saini
+#  Hi, I'm Devender Saini
 
-🚀 Full Stack Developer | Building Scalable Web Applications
-💻 Passionate about clean code, performance & user experience
-📍 India
+ Full Stack Developer | Building Scalable Web Applications
+ Passionate about clean code, performance & user experience
+ India
+
+-
+
+#    About Me
+
+*  Full Stack Developer (Frontend + Backend)
+*  Skilled in building responsive & dynamic web apps
+*  Always learning new technologies & improving skills
+*  Focused on real-world problem solving
 
 ---
 
-## 🧑‍💻 About Me
+##  Tech Stack
 
-* 🔥 Full Stack Developer (Frontend + Backend)
-* ⚡ Skilled in building responsive & dynamic web apps
-* 🧠 Always learning new technologies & improving skills
-* 🎯 Focused on real-world problem solving
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍🎨 Frontend
+###  Frontend
 
 * HTML5, CSS3, JavaScript
 * React.js / Next.js
 * Tailwind CSS / Bootstrap
 
-### ⚙️ Backend
+###  Backend
 
 * Node.js / Express.js
 * REST APIs
 
-### 🗄️ Database
+#  Database
 
 * MongoDB / MySQL
 
-### 🧰 Tools
+#  Tools
 
 * Git & GitHub
 * VS Code
@@ -40,13 +40,13 @@
 
 ---
 
-## 🌐 Connect With Me
+#   Connect With Me
 
-* 📧 Email: devendrasaini4447@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/devender-saini12
-* 📸 Instagram: https://www.instagram.com/devender____12
+*  Email: devendrasaini4447@gmail.com
+*  LinkedIn: https://www.linkedin.com/in/devender-saini12
+*  Instagram: https://www.instagram.com/devender____12
 
 ---
-## ⚡ Fun Fact
+##   Fun Fact
 
 *"I turn ideas into real-world applications."*
